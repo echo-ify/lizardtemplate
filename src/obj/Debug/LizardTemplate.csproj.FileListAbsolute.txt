@@ -1,0 +1,10 @@
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\mod\newest\plugins\LizardTemplate.dll
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\mod\newest\plugins\LizardTemplate.pdb
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\src\obj\Debug\LizardTemplate.csproj.AssemblyReference.cache
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\src\obj\Debug\LizardTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\src\obj\Debug\LizardTemplate.AssemblyInfoInputs.cache
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\src\obj\Debug\LizardTemplate.AssemblyInfo.cs
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\src\obj\Debug\LizardTemplate.csproj.CoreCompileInputs.cache
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\src\obj\Debug\LizardTe.8679ADAC.Up2Date
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\src\obj\Debug\LizardTemplate.dll
+C:\Users\echoi\OneDrive\Documentos\EchosLizardTemplate\src\obj\Debug\LizardTemplate.pdb
