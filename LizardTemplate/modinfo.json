@@ -1,0 +1,11 @@
+﻿{
+  "id": "lizardtemplate",
+  "name": "Lizard Template",
+  "version": "0.2.0",
+  "authors": "3ch0-1fy",
+  "description": "Intended for coders, but you can look at the creature if you want. It's not special.",
+  "tags": ["Creatures"],
+  "requirements": ["fisobs"],
+  "requirements_names": ["Fisobs"],
+  "checksum_override_version": false
+}
