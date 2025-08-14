@@ -87,6 +87,11 @@ public static class LizardHooks
             temp.doPreBakedPathing = false;
             temp.requireAImap = true;
             temp.preBakedPathingAncestor = pinkTemplate;
+            temp.meatPoints = 7;
+            temp.baseDamageResistance = breedParams.toughness * 2f;
+            temp.baseStunResistance = breedParams.toughness;
+            temp.damageRestistances[(int)Creature.DamageType.Bite, 0] = 2.5f;
+            temp.damageRestistances[(int)Creature.DamageType.Bite, 1] = 3f;
             return temp;
         }
         return orig(type, lizardAncestor, pinkTemplate, blueTemplate, greenTemplate);
