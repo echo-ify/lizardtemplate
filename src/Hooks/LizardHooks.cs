@@ -81,6 +81,7 @@ public static class LizardHooks
             breedParams.headGraphics = new int[5];
             breedParams.framesBetweenLookFocusChange = 20;
             breedParams.tamingDifficulty = 3f;
+            breedParams.limbThickness = 1f;
             temp.movementBasedVision = .3f;
             temp.waterPathingResistance = 3f;
             temp.dangerousToPlayer = breedParams.danger;
